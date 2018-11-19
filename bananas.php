@@ -1,3 +1,3 @@
 <?php
-echo "Bananas not only taste good, but the word sounds funny";
+echo "Bananas not only taste good, but the word sounds funny<br />";
 ?>
